@@ -1,0 +1,7 @@
+.textBox {
+  color: black;
+  font-size: xx-large;
+
+  display: flex;
+  flex-direction: column;
+}
