@@ -4,7 +4,7 @@
 
 This is a simple app for webOS TV APP created by KSoonYo
 
-## Prerequite
+## Prerequisite
 
 - node v16+
 - [webOS ares-cli](https://webostv.developer.lge.com/develop/tools/cli-introduction)
